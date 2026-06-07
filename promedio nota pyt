@@ -1,0 +1,19 @@
+# Promedio de tres notas
+
+nota1 = float(input("Ingrese la primera nota: "))
+nota2 = float(input("Ingrese la segunda nota: "))
+nota3 = float(input("Ingrese la tercera nota: "))
+
+promedio = (nota1 + nota2 + nota3) / 3
+
+print("El promedio es:", promedio)
+
+
+# Área de un rectángulo
+
+base = float(input("Ingrese la base: "))
+altura = float(input("Ingrese la altura: "))
+
+area = base * altura
+
+print("El área del rectángulo es:", area)
